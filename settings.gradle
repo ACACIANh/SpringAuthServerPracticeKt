@@ -1,0 +1,5 @@
+rootProject.name = 'SpringAuthServerPracticeKt'
+
+include 'SpringAuthClientPractice'
+include 'SpringAuthorizationServerPractice'
+include 'SpringResourceServerPractice'
